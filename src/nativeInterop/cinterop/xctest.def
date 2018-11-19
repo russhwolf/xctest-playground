@@ -1,0 +1,5 @@
+language = Objective-C
+package = platform.XCTest
+headers = XCTest/XCTest.h
+
+headerFilter = XCTest/**
